@@ -1,2 +1,2 @@
-# yatawaki-web-admin
-Repositorio de la web de administrador de Yatawaki
+# Yatawaki_Admin
+Admi web for Yatawaki Project
